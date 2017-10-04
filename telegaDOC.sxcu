@@ -1,0 +1,12 @@
+﻿{
+  "Name": "telegaDOC",
+  "DestinationType": "FileUploader",
+  "RequestType": "POST",
+  "RequestURL": "https://api.telegram.org/botTOKEN/sendDocument?$chat_id&$Document",
+  "FileFormName": "document",
+  "Arguments": {
+    "Document": "@document",
+    "chat_id": "YOURCHATID"
+  },
+  "ResponseType": "Text"
+}
