@@ -1,0 +1,2 @@
+# CustomUploaders
+for shareX
