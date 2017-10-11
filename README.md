@@ -1,3 +1,2 @@
 # CustomUploaders
 for shareX
-test
