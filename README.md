@@ -5,13 +5,14 @@ for shareX
 https://github.com/Blucknote/CustomUploaders/archive/master.zip
 
 #### Obtain token from [BotFather](https://t.me/BotFather)
-![token](http://i65.tinypic.com/28rpl61.png)
+![token](https://imgur.com/rgjUmS2)
 
 #### Import from file
-![import](http://i66.tinypic.com/2mzcl8y.png)
+![import](https://imgur.com/nUlhhfX)
+![file](https://imgur.com/vSx4gwG)
 
 #### Obtain chatid from [get_id_bot](https://t.me/get_id_bot)
-![chatid](http://i64.tinypic.com/30hy73l.png)
+![chatid](https://imgur.com/QeBCtEQ)
 
 #### Replace TOKEN with token and YOURCHATID with chatid
-![settings](http://i63.tinypic.com/hx3bqp.png)
+![settings](https://imgur.com/nFgJy9T)
