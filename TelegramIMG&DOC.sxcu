@@ -3,7 +3,7 @@
   "Name": "TelegramIMG&DOC",
   "DestinationType": "ImageUploader, FileUploader",
   "RequestMethod": "POST",
-  "RequestURL": "https://api.telegram.org/botTOKEN/sendMessage",
+  "RequestURL": "https://api.telegram.org/bot1088345764:AAGY6y4RFLWVxoZdSOGT1RmBr02KKWmhymM/sendDocument",
   "Parameters": {
     "$chat_id": "",
     "$Document": ""
@@ -11,7 +11,7 @@
   "Body": "MultipartFormData",
   "Arguments": {
     "Document": "@document",
-    "chat_id": "YOURCHATID"
+    "chat_id": "26882740"
   },
   "FileFormName": "document"
 }
