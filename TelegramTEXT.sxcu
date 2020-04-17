@@ -1,0 +1,16 @@
+﻿{
+  "Version": "13.1.0",
+  "Name": "TelegramTEXT",
+  "DestinationType": "TextUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://api.telegram.org/botTOKEN/sendMessage",
+  "Parameters": {
+    "$chat_id": "",
+    "$text": ""
+  },
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "text": "$input$",
+    "chat_id": "YOURCHATID"
+  }
+}
