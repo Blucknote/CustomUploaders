@@ -38,7 +38,7 @@
 
 ${PR_TITLE} (${PR_NUMBER_REF})
 
-## Command results
+# Command results
 <details>
   <summary>Details: </summary>
 
@@ -46,7 +46,7 @@ ${PR_TITLE} (${PR_NUMBER_REF})
 
 </details>
 
-## Changed files
+# Changed files
 <details>
   <summary>${FILES_SUMMARY}: </summary>
 
@@ -67,7 +67,7 @@ ${PR_TITLE} (${PR_NUMBER_REF})
 
 </details>
 
-## Changed files
+# Changed files
 <details>
   <summary>${FILES_SUMMARY}: </summary>
 
