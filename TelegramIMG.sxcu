@@ -1,0 +1,12 @@
+﻿{
+  "Name": "telegaIMG",
+  "DestinationType": "ImageUploader",
+  "RequestType": "POST",
+  "RequestURL": "https://api.telegram.org/botTOKEN/sendPhoto?$chat_id&$Photo",
+  "FileFormName": "photo",
+  "Arguments": {
+    "Photo": "@photo",
+    "chat_id": "YOURCHATID"
+  },
+  "ResponseType": "Text"
+}
