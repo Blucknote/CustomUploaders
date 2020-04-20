@@ -16,3 +16,6 @@ https://github.com/Blucknote/CustomUploaders/archive/master.zip
 
 #### Replace TOKEN with token and YOURCHATID with chatid
 ![settings](https://imgur.com/nFgJy9T.png)
+
+
+If you want to send your image uncompressed use DOC uploader instead of IMG
