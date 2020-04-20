@@ -1,5 +1,5 @@
 # CustomUploaders
-for shareX
+ShareX custom uploaders for telegram using bot api
 
 #### Download Custom Uploaders 
 https://github.com/Blucknote/CustomUploaders/archive/master.zip
