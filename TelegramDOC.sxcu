@@ -1,6 +1,6 @@
 ﻿{
   "Version": "13.1.0",
-  "Name": "TelegramIMG&DOC",
+  "Name": "TelegramDOC",
   "DestinationType": "ImageUploader, FileUploader",
   "RequestMethod": "POST",
   "RequestURL": "https://api.telegram.org/botTOKEN/sendDocument",
